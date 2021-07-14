@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPjSJsrX/SO1h3y+1D7RS7t7GmUCLbsMmLoCwa00Ps64JDgay0VhJ0//RLzbBLl6H4VvPDbmfZWzxDW7TVJ0ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
